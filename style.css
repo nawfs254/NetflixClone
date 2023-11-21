@@ -426,7 +426,7 @@ span:nth-child(3){
     }
 }
 
-@media only screen and (max-width:320px){
+@media only screen and (max-width:310px){
     .footer-div{
         width: 80vw;
         grid-template-columns: 80vw 80vw;
