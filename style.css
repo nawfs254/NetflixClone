@@ -414,6 +414,7 @@ span:nth-child(3){
         width: 75vw;
         grid-template-columns: 25vw 25vw 25vw;
         height: 500px;
+        padding-top: 10px;
     }
 
     .btn-lang{
@@ -429,6 +430,7 @@ span:nth-child(3){
     .footer-div{
         width: 80vw;
         grid-template-columns: 80vw 80vw;
-        height: 160vw;
+        height: 700px;
+        padding-top: 10px;
     }
 }
