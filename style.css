@@ -433,4 +433,9 @@ span:nth-child(3){
         height: 700px;
         padding-top: 10px;
     }
+    nav> .logo{
+    width: 100px;
+    position: relative;
+    z-index: 1;
+}
 }
